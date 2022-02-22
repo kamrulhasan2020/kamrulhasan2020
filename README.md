@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamrul Hasan
 - 👀 I’m interested in Python, Machine Learning and Web Development
-- 🌱 I’m currently learning ML & Web Develoment
+- 🌱 I’m currently looking forward to work as an software engineer.
 - 💞️ I’m looking to collaborate on any interesting python project.
 - 📫 To reach me,send a mail to:kkamrulhasan2020@gmail.com
 
